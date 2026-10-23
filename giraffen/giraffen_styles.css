@@ -1,0 +1,27 @@
+h1{
+    font-size: 60px;
+    color: rgb(0, 157, 157);
+    background-color: rgb(247, 151, 212);
+    text-align: center;
+}
+p{
+    font-size: 18px;
+    text-align: justify;
+}
+h2{
+    color: #cb5a43;
+    font-size: 32px;
+}
+body{
+    font-family: Calibri, sans-serif ;
+    background-color: lightgoldenrodyellow;
+}
+img {
+    width: 600px;
+    border: olive solid 10px;
+    border-radius: 50px 0px 50px 0px;
+}
+header, footer{
+    border: black solid 1px;
+    background-color: white;
+}
