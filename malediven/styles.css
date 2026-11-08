@@ -1,0 +1,28 @@
+p {
+    text-align: justify;
+}
+
+h1 {
+    
+}
+
+img {
+    width: 500px;
+    border: black solid 2px;
+    padding: 5px;
+}
+section{
+    background-color: aquamarine;
+
+}
+.bisque{
+    background-color: bisque;
+}
+.bisque h1, h2{
+    color: blue;
+}
+#imgAtoll{
+    float: right;
+    width: 400px;
+    margin: 10px;
+}
