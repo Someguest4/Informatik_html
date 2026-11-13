@@ -1,0 +1,38 @@
+h1 {
+    border: 0;
+    border-radius: 20px;
+    padding: 10px 0;
+    background-color: lightblue;
+    text-align: center;
+    color: coral;
+    font-size: 27pt;
+}
+
+h2 {
+    color: green;
+    font-size: 19pt;
+}
+
+.blue {
+    color: blue;
+}
+
+#blocksatz {
+    text-align: justify;
+}
+
+#polarfuchs {
+    float: right;
+    width: 10%;
+    height: auto;
+    margin: 0 0 10px 10px;
+    border: 2px solid turquoise;
+}
+
+#goldschakal {
+    width: 200px;
+    height: auto;
+}
+footer{
+    text-align: center;
+}
